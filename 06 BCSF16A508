@@ -1,0 +1,897 @@
+    1  exit
+    2  pwd
+    3  cd.
+    4  cd..
+    5  cd /
+    6  cd~
+    7  ~
+    8  cd /
+    9  cd home
+   10  cd abdullah
+   11  cd desktop
+   12  desktop
+   13  cd Desktop
+   14  cd desktop
+   15  touch file1
+   16  cd/
+   17  cd /
+   18  cd Desktop
+   19  cd home/abdullah/Desktop
+   20  mkdir asad
+   21  cd asad
+   22  touch asadFile.txt
+   23  ls
+   24  nano asadFile.txt
+   25  cd /
+   26  cd ~
+   27  whereis
+   28  man whereis
+   29  cd /
+   30  mkdir /home/abdullah/Desktop/asad/Sajjad
+   31  cd ~
+   32  mkdir /home/abdullah/Desktop/asad/Sajjad1
+   33  makdir Desktop/asad/Sajjad2
+   34  mkdir Desktop/asad/Sajjad2
+   35  cd /
+   36  mkdir ~/Desktop/asad/sajjad3
+   37  pwd
+   38  cd~
+   39  cd ~
+   40  pwd
+   41  mkdir Desktop/hao
+   42  cd /
+   43  cd home
+   44  cd abd
+   45  ls
+   46  cd abdullah
+   47  ls
+   48  cd Desktop
+   49  ls
+   50  man ls
+   51  ls /
+   52  ls ~
+   53  ls ~/Desktop/asad
+   54  cat file1
+   55  cd asad
+   56  ls
+   57  cat asadFile.txt
+   58  touch yahoo
+   59  nano yahoo
+   60  cat yahoo
+   61  ls
+   62  cp asadFile.txt yahoo ~/Desktop/hao
+   63  cd ..
+   64  cd ....
+   65  cd ..
+   66  cd ~
+   67  cd Desktop/hao
+   68  ls
+   69  man ls
+   70  cd ..
+   71  rmdir hao
+   72  rm -r hao
+   73  mkdir abc
+   74  rm -r abc
+   75  clear
+   76  alias abd=clear
+   77  abd
+   78  alias ls=clear
+   79  ls
+   80  cd asad
+   81  ls
+   82  unalias ls
+   83  ls
+   84  cls
+   85  alias cls=clear
+   86  cls
+   87  alias ls=clear
+   88  cls
+   89  pwd
+   90  ls
+   91  cd /
+   92  cd bin
+   93  cat cp
+   94  gcc
+   95  sudo apt install gcc
+   96  cd ~
+   97  \~
+   98  cd~
+   99  ~
+  100  /
+  101  cd /
+  102  cd ~
+  103  cd /
+  104  cd Desktop
+  105  cd abdullah
+  106  cd home
+  107  cd abdullah
+  108  cd Desktop
+  109  touch Hello.c
+  110  nano Hello.c
+  111  cat Hello.c
+  112  gcc Hello.c
+  113  gcc Hello.c -o Abc
+  114  cat Abc.out
+  115  cat a.out
+  116  clear
+  117  a.out
+  118  ./a.out
+  119  path=$path /.
+  120  a.out
+  121  path=$path:.
+  122  a.out
+  123  CLEAR
+  124  PATH=$PATH:.
+  125  a.out
+  126  /home
+  127  /etc/password
+  128  cd /
+  129  /etc/password
+  130  /etc/passwd
+  131  cd~
+  132  cd ~
+  133  /etc/passwd
+  134  /etc/shadow
+  135  cat /etc/passwd
+  136  pwdck
+  137  pwck
+  138  cat /etc/shadow
+  139  ls -l /etc/shadow
+  140  touch prog1.c
+  141  cd Desktop
+  142  touch prog1.c
+  143  cat prog1.c
+  144  nano prog1.c
+  145  gcc prog1.c
+  146  nano prog1.c
+  147  gcc prog1.c
+  148  a.out
+  149  nano prog1.c
+  150  gcc prog1.c
+  151  nano prog1.c
+  152  gcc prog1.c
+  153  nano prog1.c
+  154  gcc prog1.c
+  155  nano prog1.c
+  156  gcc prog1.c
+  157  a.out
+  158  cat prog1.c
+  159  exit
+  160  cat /etc/passwd
+  161  cat less /etc/passwd
+  162  clear
+  163  ls -option
+  164  ls -help
+  165  ls --help
+  166  ls -a
+  167  ls
+  168  cd .local
+  169  cd ..
+  170  ls -h
+  171  rm -r Music
+  172  ls
+  173  rm -r videos
+  174  rm -r Videos
+  175  ls
+  176  rm -r Documents
+  177  ls
+  178  mkdir Music
+  179  ls
+  180  clear
+  181  cd desktop
+  182  cd Desktop
+  183  a.out
+  184  a
+  185  a.out
+  186  ./a.out
+  187  gedit a.out
+  188  gedit prog1.c
+  189  touch Abc.cpp
+  190  gedit Abc.cpp
+  191  cat Abc.cpp
+  192  gcc Abc.cpp
+  193  rmdir Hello.c
+  194  rm -r Hello.c
+  195  rm Abc.cpp
+  196  touch Akhter.c
+  197  gedit Akhter.c
+  198  gcc Akhter.c
+  199  ./a.out
+  200  exit
+  201  cd Desktop
+  202  mkdir x y z
+  203  cd x
+  204  rmdir x y z
+  205  cd..
+  206  cd ..
+  207  rmdir x y z
+  208  cat prog1.c
+  209  clear
+  214  cd Desktop
+  215  rm -r file1
+  216  rm -r asad Akhter.c a.out
+  217  clear
+  218  nano prog1
+  219  cat prog1.c
+  220  ps
+  221  top
+  222  clear
+  223  alias c=clear
+  224  clear
+  225  aff
+  226  c
+  227  gcc prog1.c
+  228  ./a.out
+  229  ps
+  230  kill 1801
+  231  ps
+  232  kill -9 1801
+  233  ps
+  234  killall
+  235  cat prog1.c
+  236  c
+  237  ps
+  238  ./a.out
+  239  ps
+  240  kill -s a.out
+  241  kill -s 1813
+  242  c
+  243  killall
+  244  ps
+  245  kill -9 1813
+  246  man ps
+  247  c
+  248  top(10)
+  249  c
+  250  top
+  251  top man top
+  252  man top
+  253  top *d 20
+  254  top d 20
+  255  top
+  256  man top
+  257  top -d 10
+  258  ps
+  259  kill -9 1890
+  260  ps
+  261  killall -9 1887
+  262  man kill
+  263  kill -9 -1
+  264  ps
+  265  top
+  266  c
+  267  alias c=clear
+  268  c
+  269  where clear
+  270  whereis clear
+  271  mv /usr/bin/clear /usr/bin/c
+  272  ps
+  273  sudo sh movefiles.sh
+  274  ps
+  275  kill -9 2581
+  276  ps
+  277  kill -9 2582
+  278  ps
+  279  c
+  280  ps
+  281  kill -24 2491
+  282  ps
+  283  ./a.out
+  284  cd Desktop
+  285  ./a.out
+  286  ps
+  287  kill -9 2598
+  288  ps
+  289  ./a.out
+  290  ps
+  291  ./a.out
+  292  ps
+  293  ./a.out
+  294  ps
+  295  kill -1
+  296  ./a.out
+  297  ps
+  298  kill -9 2641 2664
+  299  ps
+  300  ./a.out
+  301  ps
+  302  kill -9 2669
+  303  ./a.out
+  304  ps
+  305  top
+  306  ps
+  307  top
+  308  clear
+  309  ps -all
+  310  kill -24 2624
+  311  ps -all
+  312  kill -24 2635
+  313  ps
+  314  ps -all
+  315  exit
+  316  close
+  317  exit
+  318  exit() exit
+  319  terminate
+  320  ps
+  321  ps -all
+  322  kill -s stop 2669
+  323  ps
+  324  ps -all
+  325  kill -s 2669
+  326  kill -s 2672
+  327  kill -17 2672
+  328  kill -18 2672
+  329  exit
+  330  ps -all
+  331  kill -3 2786
+  332  ps -all
+  333  clear
+  334  ps -all
+  335  clear
+  336  ps -all
+  337  kill 2992
+  338  ps -all
+  339  kill -25 2995
+  340  ps -all
+  341  kill -19 3002
+  342  ps
+  343  ps -all
+  344  cleat
+  345  cleatr
+  346  cleara
+  347  clear
+  348  cd Desktop
+  349  ./a.out
+  350  ps
+  351  clear
+  352  ./a.out
+  353  ps
+  354  ./a.out
+  355  ps
+  356  kill -l
+  357  clear
+  358  ps
+  359  ./a.out
+  360  ps
+  361  clear
+  362  nano fork.c
+  363  rm -r fork.c
+  364  cd Desktop
+  365  nano fork.c
+  366  gcc fork.c -o fork.out
+  367  ./fork.out
+  368  nano fork.c
+  369  gcc fork.c
+  370  ./a.out
+  371  nano fork.c
+  372  ./a.out
+  373  nano fork.c
+  374  gcc fork.c
+  375  nano fork.c
+  376  gcc fork.c
+  377  ./a.out
+  378  nano fork.c
+  379  gcc fork.c
+  380  ./a.out
+  381  nano fork.c
+  382  gcc fork.c
+  383  ./a.out
+  384  nano fork.c
+  385  gcc fork.c
+  386  ./a.out
+  387  nano fork.c
+  388  gcc fork.c
+  389  ./a.out
+  390  nano fork.c
+  391  gcc fork.c
+  392  ./a.out
+  393  nano fork.c
+  394  gcc fork.c
+  395  ./a.out
+  396  nano fork.c
+  397  gcc fork.c
+  398  ./a.out
+  399  nano fork.c
+  400  gcc fork.c
+  401  ./a.out
+  402  
+  403  cd Desktop
+  404  touch Parallel.c
+  405  nano parallel.c
+  406  nano Parallel.c
+  407  gcc Parallel.c
+  408  nano Parallel.c
+  409  gcc Parallel.c
+  410  ./a.out
+  411  gcc -forenmp Parallel.c
+  412  gcc -fopenmp Parallel.c
+  413  ./a.out
+  414  nano Parallel.c
+  415  gcc Parallel.c
+  416  gcc -fopenmp Parallel.c
+  417  ./Parallel.c
+  418  ./a.out
+  419  nano Parallel.c
+  420  gcc -fopenmp Parallel.c
+  421  ./a.out
+  422  nano Parallel.c
+  423  gcc -fopenmp Parallel.c
+  424  ./a.out
+  425  nano Parallel.c
+  426  gcc -fopenmp Parallel.c
+  427  ./a.out
+  428  nano Parallel.c
+  429  gcc -fopenmp Parallel.c
+  430  ./a.out
+  431  nano Parallel.c
+  432  gcc -fopenmp Parallel.c
+  433  nano Parallel.c
+  434  gcc -fopenmp Parallel.c
+  435  nano Parallel.c
+  436  gcc -fopenmp Parallel.c
+  437  ./a.out
+  438  bc
+  439  clear
+  440  nano Parallel.c
+  441  gcc -fopenmp Parallel.c
+  442  nano Parallel.c
+  443  gcc -fopenmp Parallel.c
+  444  ./a.out
+  445  nano Parallel.c
+  446  gcc -fopenmp Parallel.c
+  447  ./a.out
+  448  nano Parallel.c
+  449  gcc -fopenmp Parallel.c
+  450  nano Parallel.c
+  451  gcc -fopenmp Parallel.c
+  452  nano Parallel.c
+  453  gcc -fopenmp Parallel.c
+  454  nano Parallel.c
+  455  gcc -fopenmp Parallel.c
+  456  nano Parallel.c
+  457  gcc -fopenmp Parallel.c
+  458  ./a.out
+  459  gedit Parallel.c
+  460  gcc -fopenmp Parallel.c
+  461  gedit Parallel.c
+  462  ps
+  463  kill -9 2510 2532
+  464  gedit Parallel.c
+  465  gcc -fopenmp Parallel.c
+  466  ./a.out
+  467  ps
+  468  kill 2207
+  469  ps 2696 2207
+  470  exit
+  471  cd Desktop
+  472  gedit e.c
+  473  touch sajjad.c
+  474  nano sajjad.c
+  475  gcc sajjad.c
+  476  ./a.out
+  477  nano sajjad.c
+  478  gedit e.c
+  479  cd Desktop
+  480  gedit e.c
+  481  gcc e.c
+  482  gedit e.c
+  483  gcc e.c
+  484  gedit e.c
+  485  gcc e.c
+  486  gedit e.c
+  487  cd Desktop
+  488  nano sajjad.c
+  489  cd Desktop
+  490  gedit sajjad.c
+  491  gedit e.c
+  492  gcc e.c
+  493  gedit e.c
+  494  gcc e.c
+  495  ./a.out
+  496  gedit e.c
+  497  ps
+  498  ps -all
+  499  bg 2473
+  500  bg
+  501  bg -all
+  502  ps
+  503  cd Desktop
+  504  touch lab.c
+  505  nano lab.c
+  506  gcc lab.c
+  507  ./a.out
+  508  bg a.out
+  509  ps
+  510  bg 1625
+  511  jobs
+  512  ps
+  513  ps -all
+  514  man bg
+  515  man ps
+  516  ps -bg
+  517  bg
+  518  man bg
+  519  bg -all
+  520  bg -a
+  521  ls bg
+  522  cat bg
+  523  clear
+  524  ps -all
+  525  man ps
+  526  ps
+  527  jobs
+  528  firefox
+  529  ps
+  530  firefox &
+  531  bg firefox
+  532  firefox
+  533  bg firefox
+  534  ps
+  535  kill -9 2473
+  536  ps
+  537  grep /etc/passwd "ABDULLAH"
+  538  man grep
+  539  grep "ABDULLAH" /etc/passwd
+  540  exec ls
+  541  man exec
+  542  wc -l \etc\passwd
+  543  wc -l /etc/passwd
+  544  firefox
+  545  bg
+  546  exac ls
+  547  exec ls
+  548  nice --help
+  549  man nice
+  550  ps
+  551  ps 3119
+  552  cd Desktop
+  553  ./a.out
+  554  jobs
+  555  jobs -l
+  556  jobs -p
+  557  ps 3122
+  558  grep -i "ABDULLAH" /etc/passwd
+  559  grep -i -v "ABDULLAH" /etc/passwd
+  560  exec --help
+  561  ps -all
+  562  exec ls
+  563  man nice
+  564  ps
+  565  ./a.out
+  566  cd Desktop
+  567  ./a.out
+  568  ps
+  569  bg a.out
+  570  bg ./a.out
+  571  job
+  572  jobs
+  573  clear
+  574  ps
+  575  kill -9 a.out
+  576  kill -9 2973
+  577  ./a.out &
+  578  bg 2993
+  579  ps
+  580  man ps
+  581  man jobs
+  582  jobs -l
+  583  jobs -r
+  584  clear
+  585  cd /
+  586  cd home
+  587  ls
+  588  clear
+  589  cd ~
+  590  cd Desktop
+  591  grep "printf" final.c
+  592  grep "abdullah" /etc/passwd
+  593  grep "ABDULLAH" /etc/passwd
+  594  grep "abdullah" /etc/passwd
+  595  grep "ABDULLAH" /etc/passwd
+  596  grep -help
+  597  grep --help
+  598  grep -i "ABDULLAH" /etc/passwd
+  599  grep --help
+  600  grep -v "ABDULLAH" /etc/passwd
+  601  grep -v -i "ABDULLAH" /etc/passwd
+  602  jobs --help
+  603  jobs -r -p
+  604  jobs -r
+  605  jobs -p
+  606  ps -all
+  607  kill -19 3159
+  608  bg 3159
+  609  bg firefox
+  610  jobs -p
+  611  cd Desktop
+  612  touch Sockets.c
+  613  touch server.c
+  614  touch client.c
+  615  gedit server.c
+  616  gcc server.c
+  617  ./a.out
+  618  gedit server.c
+  619  ps
+  620  kill -9 2313
+  621  kill -9 2271
+  622  gedit server.c
+  623  gedit client.c
+  624  ls
+  625  cd Downloads
+  626  ls
+  627  gedit server123.txt
+  628  gedit client123.txt
+  629  gedit Desktop/client.c
+  630  gcc server.c -o server1.out
+  631  cd Desktop
+  632  gcc server.c -o server1.out
+  633  gcc client.c -o client1.out
+  634  gedit server.c
+  635  gcc client.c -o client1.out
+  636  ./server1.out
+  637  cd Desktop
+  638  ./client1.out
+  639  gedit server.c
+  640  cd Desktop
+  641  gedit server.c
+  642  gcc server.c -o server1.out
+  643  gedit server.c
+  644  gcc server.c -o server1.out
+  645  gedit server.c
+  646  gcc server.c -o server1.out
+  647  gedit server.c
+  648  gcc server.c -o server1.out
+  649  gedit server.c
+  650  gcc server.c -o server1.out
+  651  gedit server.c
+  652  gcc server.c -o server1.out
+  653  gedit server.c
+  654  gcc server.c -o server1.out
+  655  ./server1.out
+  656  cd Desktop
+  657  gedit client.c
+  658  gcc server.c -o server1.out
+  659  ./client1.out
+  660  gcc server.c -o server1.out
+  661  ./client1.out
+  662  ps
+  663  kill -all
+  664  kill --help
+  665  kill -help
+  666  man kill
+  667  ps
+  668  kill -9 -1
+  669  ./server1.out
+  670  cd Desktop
+  671  ./server1.out
+  672  cd Desktop
+  673  ./client1.out
+  674  ./client1.c
+  675  ./client1.out
+  676  ps
+  677  kill -9 1675 1677
+  678  ./client1.out
+  679  ps
+  680  kill -9 1699 1701
+  681  ./client1.out
+  682  cd Desktop
+  683  gedit server.c
+  684  gcc server.c -o server1.out
+  685  ./server1.out
+  686  gedit server.c
+  687  ps
+  688  kill -9 1653 1676
+  689  gcc server.c -o server1.out
+  690  ./server1.out
+  691  gedit server.c
+  692  ps
+  693  kill -9 1698 1700
+  694  gcc server.c -o server1.out
+  695  ./server1.out
+  696  ifconfig
+  697  sudo apt install net-tools
+  698  ifconfig
+  699  ipconfig
+  700  iwconfig
+  701  cd Desktop
+  702  gcc x1.c
+  703  gcc x2.c
+  704  gcc x1.c
+  705  cd Desktop
+  706  touch x2.c
+  707  ls
+  708  clear
+  709  gedit x2.c
+  710  cd Desktop
+  711  clear
+  712  gcc x1.c -o x1.out
+  713  ./x1.out
+  714  ps
+  715  ./x1.out
+  716  gcc x1.c -o x1.out
+  717  ./x1.out
+  718  ps
+  719  gcc x1.c -o x1.out
+  720  ./x1.out
+  721  gcc x1.c -o x1.out
+  722  ps
+  723  kill -9 3394 3395
+  724  ./x1.out
+  725  ps
+  726  kill -9 3419 3420
+  727  gcc x1.c -o x1.out
+  728  ./x1.out
+  729  gedit client.c
+  730  gcc x1.c -o x1.out
+  731  ps
+  732  kill -9 3450 3451
+  733  ./x1.out
+  734  ./server1.out
+  735  ps
+  736  kill -9 3486 3487 3492 3494
+  737  gcc server.c -o server1.out
+  738  ./server1.out
+  739  ps
+  740  kill -9 3519 3521
+  741  gcc x1.c -o x1.out
+  742  ./x1.out
+  743  touch w1.c
+  744  touch w2.c
+  745  ps
+  746  gcc w1.c -o w1.out
+  747  ./w1.out
+  748  gcc w1.c -o w1.out
+  749  ./w1.out
+  750  ps
+  751  kill -9 3596 3598 3626
+  752  ./w1.out
+  753  gcc w1.c -o w1.out
+  754  ps
+  755  kill -9 3632 3634
+  756  ./w1.out
+  757  ps
+  758  kill -9 3672 3674
+  759  gcc w1.c -o w1.out
+  760  ps
+  761  gcc w1.c -o w1.out
+  762  ./w1.out
+  763  ps
+  764  kill -9 3705 3707
+  765  gcc w1.c -o w1.out
+  766  ./w1.out
+  767  gcc w1.c -o w1.out
+  768  ps
+  769  kill -9 3728 3730
+  770  ./w1.out
+  771  ps
+  772  kill -9 w1.out
+  773  kill -9 3751
+  774  ./w1.out
+  775  kill -9 -1
+  776  cd Desktop
+  777  ./w2.out
+  778  ps
+  779  kill 4379 7381 4394 4395
+  780  ps
+  781  kill -9 4379 7381 4394 4395
+  782  ./w2.out
+  783  ps
+  784  kill -9 4402 4404
+  785  ./w2.out
+  786  gedit w2.c
+  787  ps
+  788  kill -9 4409 4411
+  789  gcc w2.c -o w2.out
+  790  gedit w2.c
+  791  gcc w2.c -o w2.out
+  792  ./w2.out
+  793  gedit w2.c
+  794  gcc w2.c -o w2.out
+  795  ./w2.out
+  796  ps
+  797  kill -9 4487 4489 4529 4530
+  798  gcc w2.c -o w2.out
+  799  ./w2.out
+  800  gedit w2.c
+  801  gcc w2.c -o w2.out
+  802  ./w2.out
+  803  ps
+  804  kill -9 4548 4550 4584 4585
+  805  ./w2.out
+  806  kill -9 -1
+  807  ./w2.out
+  808  gedit w1.c
+  809  ps
+  810  kill -9 5199 5201
+  811  cd Desktop
+  812  ps
+  813  ps -all
+  814  clear
+  815  gcc w2.c -o w2.out
+  816  ./w2.out
+  817  cd Desktop
+  818  ./w1.out
+  819  gedit w2.c
+  820  ps
+  821  kill -9 5188 5200
+  822  gcc w1.c -o w1.out
+  823  ./w1.out
+  824  cd Desktop
+  825  ps
+  826  gcc w1.c -o w1.out
+  827  ./w1.out
+  828  ps
+  829  kill -9 5398
+  830  clear
+  831  gcc w1.c -o w1.out
+  832  ./w1.out
+  833  ps
+  834  kill -9 5425
+  835  gcc w1.c -o w1.out
+  836  ./w1.out
+  837  ps
+  838  kill -9 5446 5450
+  839  gcc w1.c -o w1.out
+  840  ./w1.out
+  841  ps
+  842  kill -9 5499 5503
+  843  gcc w1.c -o w1.out
+  844  ./w1.out
+  845  cd Desktop
+  846  ps
+  847  gcc w2.c -o w2.out
+  848  ./w2.out
+  849  ps
+  850  kill -9 5399
+  851  clear
+  852  gcc w2.c -o w2.out
+  853  ./w2.out
+  854  ps
+  855  gcc w2.c -o w2.out
+  856  ./w2.out
+  857  ps
+  858  kill -9 5449 5451
+  859  gcc w2.c -o w2.out
+  860  ./w2.out
+  861  ps
+  862  kill -9 5501 5504
+  863  gcc w2.c -o w2.out
+  864  gedit w2.c
+  865  gcc w2.c -o w2.out
+  866  ./w2.out
+  867  cd Desktop
+  868  clear
+  869  ./w1.out
+  870  cd Desktop
+  871  ./w1.out
+  872  ps
+  873  kill -9 1522
+  874  ./w2.out
+  875  Asad
+  876  ./w2.out
+  877  Asad
+  878  ps
+  879  clear
+  880  ./w2.out
+  881  cd Desktop
+  882  touch BCSF16A508
+  883  history 1>BCSF16A508
+  884  gedit BCSF16A508
+  886  grep "clear" BCSF16A508
+  887  alias Hao=clear
+  888  hao
+  889  alias Hao=clear screen
+  890  clear
+  891  clea
+  892  r
+  893  clear
+  894  alias clear=hao
+  895  hao
+  896  alias hao=clear
+  897  hao
+  898  alias c=clear;
+  899  c
+  900  alias asdf=clear
+  901  asdf
+  902  history 1>BCSF16A508
